@@ -1,1 +1,4 @@
-In the eigth assignment I've practiced writing two simple python scripts. The first one take three numbers as input and sorts them in ascending order using three if statements. The second script prompts the user for input, generates a list, and counts the number of string elements within it. The task wasn't difficult, but was quit interesting.
+In the eigth assignment I've practiced writing two simple python scripts.
+The first one take three numbers as input and sorts them in ascending order using three if statements.
+The second script prompts the user for input, generates a list, and counts the number of string elements within it. 
+The task wasn't difficult, but was quit interesting.
